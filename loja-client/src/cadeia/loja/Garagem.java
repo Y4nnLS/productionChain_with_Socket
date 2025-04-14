@@ -1,0 +1,28 @@
+package cadeia.loja;
+
+import java.util.concurrent.BlockingQueue;
+import java.util.concurrent.LinkedBlockingQueue;
+
+import cadeia.modelo.Veiculo;
+
+public class Garagem {
+    public Loja loja;
+
+    public Garagem(Loja loja) {
+        this.loja = loja;
+    }
+
+    private final BlockingQueue<Veiculo> veiculos = new LinkedBlockingQueue<>();
+
+    public void adicionar(Veiculo v) throws InterruptedException {
+        veiculos.put(v);
+    }
+
+    public Veiculo retirar() throws InterruptedException {
+        return veiculos.take();
+    }
+
+    public int tamanho() {
+        return veiculos.size();
+    }
+}

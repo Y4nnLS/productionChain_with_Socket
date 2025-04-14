@@ -1,0 +1,11 @@
+src/App.java
+src/cadeia/loja/Cliente.java
+src/cadeia/loja/EsteiraLoja.java
+src/cadeia/loja/Garagem.java
+src/cadeia/loja/LogCliente.java
+src/cadeia/loja/LogLoja.java
+src/cadeia/loja/Loja.java
+src/cadeia/loja/LojaSocketClient.java
+src/cadeia/modelo/TipoVeiculo.java
+src/cadeia/modelo/Veiculo.java
+src/cadeia/util/CorVeiculo.java

@@ -1,0 +1,319 @@
+[2025-04-10 19:51:29] Cliente0-Loja1 - Comprou veículo ID: 1 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 0 | Funcionário: 0 | Loja: Loja1 | Posição na esteira da loja: 0
+[2025-04-10 19:51:29] Cliente1-Loja1 - Comprou veículo ID: 2 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 1 | Funcionário: 4 | Loja: Loja1 | Posição na esteira da loja: 1
+[2025-04-10 19:51:29] Cliente2-Loja1 - Comprou veículo ID: 5 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 2 | Funcionário: 2 | Loja: Loja1 | Posição na esteira da loja: 2
+[2025-04-10 19:51:29] Cliente3-Loja1 - Comprou veículo ID: 3 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 3 | Loja: Loja1 | Posição na esteira da loja: 3
+[2025-04-10 19:51:29] Cliente4-Loja1 - Comprou veículo ID: 4 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 0 | Funcionário: 2 | Loja: Loja1 | Posição na esteira da loja: 4
+[2025-04-10 19:51:29] Cliente5-Loja1 - Comprou veículo ID: 7 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 1 | Loja: Loja1 | Posição na esteira da loja: 5
+[2025-04-10 19:51:29] Cliente6-Loja1 - Comprou veículo ID: 8 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 2 | Funcionário: 0 | Loja: Loja1 | Posição na esteira da loja: 6
+[2025-04-10 19:51:30] Cliente7-Loja1 - Comprou veículo ID: 6 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 0 | Funcionário: 0 | Loja: Loja1 | Posição na esteira da loja: 7
+[2025-04-10 19:51:30] Cliente8-Loja1 - Comprou veículo ID: 9 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 1 | Loja: Loja1 | Posição na esteira da loja: 8
+[2025-04-10 19:51:31] Cliente9-Loja1 - Comprou veículo ID: 10 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 1 | Funcionário: 4 | Loja: Loja1 | Posição na esteira da loja: 9
+[2025-04-10 19:51:31] Cliente10-Loja1 - Comprou veículo ID: 11 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 0 | Funcionário: 2 | Loja: Loja1 | Posição na esteira da loja: 10
+[2025-04-10 19:51:35] Cliente11-Loja1 - Comprou veículo ID: 12 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 2 | Funcionário: 2 | Loja: Loja1 | Posição na esteira da loja: 11
+[2025-04-10 19:51:35] Cliente12-Loja1 - Comprou veículo ID: 13 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 3 | Funcionário: 3 | Loja: Loja1 | Posição na esteira da loja: 12
+[2025-04-10 19:51:38] Cliente13-Loja1 - Comprou veículo ID: 14 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 2 | Funcionário: 0 | Loja: Loja1 | Posição na esteira da loja: 13
+[2025-04-10 19:51:40] Cliente14-Loja1 - Comprou veículo ID: 15 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 0 | Funcionário: 0 | Loja: Loja1 | Posição na esteira da loja: 14
+[2025-04-10 19:51:42] Cliente15-Loja1 - Comprou veículo ID: 16 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 2 | Funcionário: 2 | Loja: Loja1 | Posição na esteira da loja: 15
+[2025-04-10 19:51:42] Cliente16-Loja1 - Comprou veículo ID: 17 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 1 | Funcionário: 1 | Loja: Loja1 | Posição na esteira da loja: 16
+[2025-04-10 19:51:42] Cliente17-Loja1 - Comprou veículo ID: 18 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 3 | Funcionário: 1 | Loja: Loja1 | Posição na esteira da loja: 17
+[2025-04-10 19:51:44] Cliente18-Loja1 - Comprou veículo ID: 19 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 4 | Loja: Loja1 | Posição na esteira da loja: 18
+[2025-04-10 19:51:45] Cliente19-Loja1 - Comprou veículo ID: 20 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 0 | Funcionário: 2 | Loja: Loja1 | Posição na esteira da loja: 19
+[2025-04-10 19:51:46] Cliente3-Loja1 - Comprou veículo ID: 21 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 3 | Loja: Loja1 | Posição na esteira da loja: 20
+[2025-04-10 19:51:46] Cliente0-Loja1 - Comprou veículo ID: 22 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 0 | Funcionário: 0 | Loja: Loja1 | Posição na esteira da loja: 21
+[2025-04-10 19:51:50] Cliente2-Loja1 - Comprou veículo ID: 23 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 1 | Funcionário: 3 | Loja: Loja1 | Posição na esteira da loja: 22
+[2025-04-10 19:51:51] Cliente6-Loja1 - Comprou veículo ID: 24 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 2 | Funcionário: 4 | Loja: Loja1 | Posição na esteira da loja: 23
+[2025-04-10 19:51:52] Cliente5-Loja1 - Comprou veículo ID: 25 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 0 | Funcionário: 2 | Loja: Loja1 | Posição na esteira da loja: 24
+[2025-04-10 19:51:55] Cliente1-Loja1 - Comprou veículo ID: 26 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 2 | Funcionário: 1 | Loja: Loja1 | Posição na esteira da loja: 25
+[2025-04-10 19:51:56] Cliente7-Loja1 - Comprou veículo ID: 27 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 1 | Loja: Loja1 | Posição na esteira da loja: 26
+[2025-04-10 19:51:56] Cliente4-Loja1 - Comprou veículo ID: 28 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 3 | Loja: Loja1 | Posição na esteira da loja: 27
+[2025-04-10 19:52:00] Cliente8-Loja1 - Comprou veículo ID: 29 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 0 | Funcionário: 0 | Loja: Loja1 | Posição na esteira da loja: 28
+[2025-04-10 19:52:03] Cliente10-Loja1 - Comprou veículo ID: 31 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 0 | Funcionário: 2 | Loja: Loja1 | Posição na esteira da loja: 29
+[2025-04-10 19:52:03] Cliente9-Loja1 - Comprou veículo ID: 30 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 1 | Funcionário: 3 | Loja: Loja1 | Posição na esteira da loja: 30
+[2025-04-10 19:52:03] Cliente11-Loja1 - Comprou veículo ID: 32 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 3 | Funcionário: 3 | Loja: Loja1 | Posição na esteira da loja: 31
+[2025-04-10 19:52:04] Cliente12-Loja1 - Comprou veículo ID: 33 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 1 | Loja: Loja1 | Posição na esteira da loja: 32
+[2025-04-10 19:52:05] Cliente13-Loja1 - Comprou veículo ID: 34 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 2 | Funcionário: 3 | Loja: Loja1 | Posição na esteira da loja: 33
+[2025-04-10 19:52:05] Cliente14-Loja1 - Comprou veículo ID: 35 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 2 | Funcionário: 1 | Loja: Loja1 | Posição na esteira da loja: 34
+[2025-04-10 19:52:06] Cliente17-Loja1 - Comprou veículo ID: 36 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 0 | Funcionário: 0 | Loja: Loja1 | Posição na esteira da loja: 35
+[2025-04-10 19:52:09] Cliente15-Loja1 - Comprou veículo ID: 37 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 3 | Funcionário: 3 | Loja: Loja1 | Posição na esteira da loja: 36
+[2025-04-10 19:52:10] Cliente16-Loja1 - Comprou veículo ID: 38 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 0 | Funcionário: 2 | Loja: Loja1 | Posição na esteira da loja: 37
+[2025-04-10 19:52:11] Cliente18-Loja1 - Comprou veículo ID: 39 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 2 | Funcionário: 3 | Loja: Loja1 | Posição na esteira da loja: 38
+[2025-04-10 19:52:14] Cliente19-Loja1 - Comprou veículo ID: 40 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 0 | Loja: Loja1 | Posição na esteira da loja: 39
+[2025-04-10 19:54:38] Cliente0-Loja3 - Comprou veículo ID: 4 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 2 | Funcionário: 0 | Loja3 | Posição na esteira da loja: 0
+[2025-04-10 19:54:39] Cliente2-Loja3 - Comprou veículo ID: 5 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 0 | Funcionário: 0 | Loja3 | Posição na esteira da loja: 1
+[2025-04-10 19:54:40] Cliente0-Loja1 - Comprou veículo ID: 7 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 2 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 0
+[2025-04-10 19:54:45] Cliente1-Loja3 - Comprou veículo ID: 8 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 0 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 2
+[2025-04-10 19:54:46] Cliente1-Loja1 - Comprou veículo ID: 9 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 1 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 1
+[2025-04-10 19:54:46] Cliente3-Loja3 - Comprou veículo ID: 10 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 1 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 3
+[2025-04-10 19:54:46] Cliente5-Loja3 - Comprou veículo ID: 11 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 2 | Funcionário: 0 | Loja3 | Posição na esteira da loja: 4
+[2025-04-10 19:54:51] Cliente2-Loja1 - Comprou veículo ID: 12 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 0 | Funcionário: 0 | Loja1 | Posição na esteira da loja: 2
+[2025-04-10 19:54:53] Cliente4-Loja1 - Comprou veículo ID: 13 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 3 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 3
+[2025-04-10 19:54:54] Cliente3-Loja1 - Comprou veículo ID: 14 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 1 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 4
+[2025-04-10 19:54:54] Cliente5-Loja1 - Comprou veículo ID: 15 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 2 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 5
+[2025-04-10 19:54:58] Cliente6-Loja3 - Comprou veículo ID: 16 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 0 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 5
+[2025-04-10 19:54:58] Cliente0-Loja2 - Comprou veículo ID: 17 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 1 | Funcionário: 4 | Loja2 | Posição na esteira da loja: 0
+[2025-04-10 19:55:00] Cliente4-Loja3 - Comprou veículo ID: 18 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 3 | Funcionário: 2 | Loja3 | Posição na esteira da loja: 6
+[2025-04-10 19:55:13] Cliente6-Loja1 - Comprou veículo ID: 19 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 6
+[2025-04-10 19:55:13] Cliente8-Loja3 - Comprou veículo ID: 20 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 3 | Funcionário: 2 | Loja3 | Posição na esteira da loja: 7
+[2025-04-10 19:55:21] Cliente7-Loja3 - Comprou veículo ID: 21 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 1 | Funcionário: 2 | Loja3 | Posição na esteira da loja: 8
+[2025-04-10 19:55:27] Cliente9-Loja3 - Comprou veículo ID: 22 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 1 | Loja3 | Posição na esteira da loja: 9
+[2025-04-10 19:55:32] Cliente1-Loja2 - Comprou veículo ID: 23 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 3 | Funcionário: 1 | Loja2 | Posição na esteira da loja: 1
+[2025-04-10 19:55:42] Cliente2-Loja2 - Comprou veículo ID: 24 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 3 | Funcionário: 1 | Loja2 | Posição na esteira da loja: 2
+[2025-04-10 19:55:47] Cliente7-Loja1 - Comprou veículo ID: 25 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 3 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 7
+[2025-04-10 19:56:01] Cliente10-Loja3 - Comprou veículo ID: 26 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 3 | Funcionário: 0 | Loja3 | Posição na esteira da loja: 10
+[2025-04-10 19:56:15] Cliente11-Loja3 - Comprou veículo ID: 27 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 11
+[2025-04-10 19:56:24] Cliente12-Loja3 - Comprou veículo ID: 28 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 12
+[2025-04-10 19:56:33] Cliente13-Loja3 - Comprou veículo ID: 29 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 3 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 13
+[2025-04-10 19:56:45] Cliente9-Loja1 - Comprou veículo ID: 30 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 3 | Funcionário: 4 | Loja1 | Posição na esteira da loja: 8
+[2025-04-10 19:56:59] Cliente3-Loja2 - Comprou veículo ID: 31 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 3 | Funcionário: 4 | Loja2 | Posição na esteira da loja: 3
+[2025-04-10 19:57:07] Cliente14-Loja3 - Comprou veículo ID: 32 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 3 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 14
+[2025-04-10 19:57:16] Cliente11-Loja1 - Comprou veículo ID: 33 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 4 | Loja1 | Posição na esteira da loja: 9
+[2025-04-10 19:57:30] Cliente4-Loja2 - Comprou veículo ID: 34 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 4 | Loja2 | Posição na esteira da loja: 4
+[2025-04-10 19:57:43] Cliente10-Loja1 - Comprou veículo ID: 35 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 3 | Funcionário: 4 | Loja1 | Posição na esteira da loja: 10
+[2025-04-10 19:57:48] Cliente5-Loja2 - Comprou veículo ID: 36 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 3 | Funcionário: 4 | Loja2 | Posição na esteira da loja: 5
+[2025-04-10 19:57:55] Cliente6-Loja2 - Comprou veículo ID: 37 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 3 | Funcionário: 4 | Loja2 | Posição na esteira da loja: 6
+[2025-04-10 19:58:08] Cliente15-Loja3 - Comprou veículo ID: 38 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 3 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 15
+[2025-04-10 19:58:20] Cliente16-Loja3 - Comprou veículo ID: 39 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 16
+[2025-04-10 19:58:28] Cliente8-Loja1 - Comprou veículo ID: 40 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 4 | Loja1 | Posição na esteira da loja: 11
+[2025-04-10 19:58:34] Cliente17-Loja3 - Comprou veículo ID: 41 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 3 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 17
+[2025-04-10 19:58:45] Cliente18-Loja3 - Comprou veículo ID: 42 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 3 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 18
+[2025-04-10 19:58:52] Cliente19-Loja3 - Comprou veículo ID: 43 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 3 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 19
+[2025-04-10 20:28:14] Cliente0-Loja1 - Comprou veículo ID: 3 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 0 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 0
+[2025-04-10 20:28:14] Cliente1-Loja1 - Comprou veículo ID: 2 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 1 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 1
+[2025-04-10 20:28:14] Cliente2-Loja1 - Comprou veículo ID: 1 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 2 | Funcionário: 0 | Loja1 | Posição na esteira da loja: 2
+[2025-04-10 20:28:14] Cliente3-Loja1 - Comprou veículo ID: 5 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 3 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 3
+[2025-04-10 20:28:14] Cliente4-Loja1 - Comprou veículo ID: 4 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 0 | Funcionário: 4 | Loja1 | Posição na esteira da loja: 4
+[2025-04-10 20:28:14] Cliente5-Loja1 - Comprou veículo ID: 9 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 1 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 5
+[2025-04-10 20:28:14] Cliente6-Loja1 - Comprou veículo ID: 6 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 2 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 6
+[2025-04-10 20:28:14] Cliente7-Loja1 - Comprou veículo ID: 7 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 3 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 7
+[2025-04-10 20:28:15] Cliente8-Loja1 - Comprou veículo ID: 8 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 0 | Funcionário: 4 | Loja1 | Posição na esteira da loja: 8
+[2025-04-10 20:28:17] Cliente9-Loja1 - Comprou veículo ID: 10 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 9
+[2025-04-10 20:28:18] Cliente10-Loja1 - Comprou veículo ID: 11 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 0 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 10
+[2025-04-10 20:28:19] Cliente11-Loja1 - Comprou veículo ID: 12 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 2 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 11
+[2025-04-10 20:28:22] Cliente12-Loja1 - Comprou veículo ID: 13 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 3 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 12
+[2025-04-10 20:28:24] Cliente13-Loja1 - Comprou veículo ID: 14 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 1 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 13
+[2025-04-10 20:28:27] Cliente14-Loja1 - Comprou veículo ID: 15 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 0 | Funcionário: 4 | Loja1 | Posição na esteira da loja: 14
+[2025-04-10 20:28:27] Cliente15-Loja1 - Comprou veículo ID: 16 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 15
+[2025-04-10 20:28:27] Cliente0-Loja2 - Comprou veículo ID: 17 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 2 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 0
+[2025-04-10 20:28:33] Cliente0-Loja3 - Comprou veículo ID: 18 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 3 | Funcionário: 1 | Loja3 | Posição na esteira da loja: 0
+[2025-04-10 20:28:34] Cliente1-Loja2 - Comprou veículo ID: 19 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 2 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 1
+[2025-04-10 20:28:35] Cliente1-Loja3 - Comprou veículo ID: 20 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 1 | Funcionário: 2 | Loja3 | Posição na esteira da loja: 1
+[2025-04-10 20:28:37] Cliente3-Loja3 - Comprou veículo ID: 21 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 2
+[2025-04-10 20:28:39] Cliente2-Loja3 - Comprou veículo ID: 22 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 1 | Loja3 | Posição na esteira da loja: 3
+[2025-04-10 20:28:40] Cliente4-Loja3 - Comprou veículo ID: 23 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 0 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 4
+[2025-04-10 20:28:43] Cliente5-Loja3 - Comprou veículo ID: 24 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 2 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 5
+[2025-04-10 20:28:44] Cliente16-Loja1 - Comprou veículo ID: 25 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 16
+[2025-04-10 20:28:45] Cliente3-Loja2 - Comprou veículo ID: 26 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 1 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 2
+[2025-04-10 20:28:46] Cliente2-Loja2 - Comprou veículo ID: 27 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 3
+[2025-04-10 20:28:48] Cliente7-Loja3 - Comprou veículo ID: 28 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 0 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 6
+[2025-04-10 20:28:50] Cliente6-Loja3 - Comprou veículo ID: 29 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 2 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 7
+[2025-04-10 20:28:53] Cliente8-Loja3 - Comprou veículo ID: 30 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 3 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 8
+[2025-04-10 20:28:53] Cliente17-Loja1 - Comprou veículo ID: 31 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 3 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 17
+[2025-04-10 20:28:56] Cliente11-Loja3 - Comprou veículo ID: 32 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 1 | Funcionário: 0 | Loja3 | Posição na esteira da loja: 9
+[2025-04-10 20:28:58] Cliente12-Loja3 - Comprou veículo ID: 34 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 1 | Funcionário: 2 | Loja3 | Posição na esteira da loja: 10
+[2025-04-10 20:28:58] Cliente9-Loja3 - Comprou veículo ID: 33 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 11
+[2025-04-10 20:29:01] Cliente10-Loja3 - Comprou veículo ID: 35 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 0 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 12
+[2025-04-10 20:29:02] Cliente13-Loja3 - Comprou veículo ID: 36 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 2 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 13
+[2025-04-10 20:29:02] Cliente14-Loja3 - Comprou veículo ID: 37 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 3 | Funcionário: 1 | Loja3 | Posição na esteira da loja: 14
+[2025-04-10 20:29:04] Cliente16-Loja3 - Comprou veículo ID: 38 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 1 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 15
+[2025-04-10 20:29:05] Cliente15-Loja3 - Comprou veículo ID: 39 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 16
+[2025-04-10 20:29:07] Cliente17-Loja3 - Comprou veículo ID: 40 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 0 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 17
+[2025-04-10 20:29:08] Cliente4-Loja2 - Comprou veículo ID: 41 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 2 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 4
+[2025-04-10 20:29:11] Cliente5-Loja2 - Comprou veículo ID: 42 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 0 | Funcionário: 2 | Loja2 | Posição na esteira da loja: 5
+[2025-04-10 20:29:11] Cliente18-Loja3 - Comprou veículo ID: 43 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 2 | Loja3 | Posição na esteira da loja: 18
+[2025-04-10 20:29:13] Cliente19-Loja3 - Comprou veículo ID: 44 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 3 | Funcionário: 1 | Loja3 | Posição na esteira da loja: 19
+[2025-04-10 20:29:14] Cliente0-Loja3 - Comprou veículo ID: 45 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 0 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 20
+[2025-04-10 20:29:14] Cliente6-Loja2 - Comprou veículo ID: 46 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 6
+[2025-04-10 20:29:16] Cliente1-Loja3 - Comprou veículo ID: 47 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 0 | Funcionário: 1 | Loja3 | Posição na esteira da loja: 21
+[2025-04-10 20:29:17] Cliente3-Loja3 - Comprou veículo ID: 48 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 2 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 22
+[2025-04-10 20:29:20] Cliente2-Loja3 - Comprou veículo ID: 49 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 2 | Loja3 | Posição na esteira da loja: 23
+[2025-04-10 20:29:23] Cliente4-Loja3 - Comprou veículo ID: 50 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 3 | Funcionário: 1 | Loja3 | Posição na esteira da loja: 24
+[2025-04-10 20:29:25] Cliente5-Loja3 - Comprou veículo ID: 51 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 0 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 25
+[2025-04-10 20:29:26] Cliente18-Loja1 - Comprou veículo ID: 52 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 0 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 18
+[2025-04-10 20:29:26] Cliente19-Loja1 - Comprou veículo ID: 53 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 1 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 19
+[2025-04-10 20:29:29] Cliente7-Loja3 - Comprou veículo ID: 54 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 3 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 26
+[2025-04-10 20:29:30] Cliente3-Loja1 - Comprou veículo ID: 55 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 2 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 20
+[2025-04-10 20:29:32] Cliente6-Loja3 - Comprou veículo ID: 56 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 1 | Funcionário: 2 | Loja3 | Posição na esteira da loja: 27
+[2025-04-10 20:29:35] Cliente8-Loja3 - Comprou veículo ID: 57 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 1 | Loja3 | Posição na esteira da loja: 28
+[2025-04-10 20:29:36] Cliente11-Loja3 - Comprou veículo ID: 58 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 0 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 29
+[2025-04-10 20:29:37] Cliente7-Loja2 - Comprou veículo ID: 59 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 2 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 7
+[2025-04-10 20:29:40] Cliente1-Loja1 - Comprou veículo ID: 60 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 1 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 21
+[2025-04-10 20:29:41] Cliente5-Loja1 - Comprou veículo ID: 61 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 22
+[2025-04-10 20:29:43] Cliente9-Loja3 - Comprou veículo ID: 62 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 3 | Funcionário: 1 | Loja3 | Posição na esteira da loja: 30
+[2025-04-10 20:29:44] Cliente6-Loja1 - Comprou veículo ID: 63 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 23
+[2025-04-10 20:29:44] Cliente12-Loja3 - Comprou veículo ID: 64 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 2 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 31
+[2025-04-10 20:29:47] Cliente0-Loja1 - Comprou veículo ID: 65 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 1 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 24
+[2025-04-10 20:29:48] Cliente13-Loja3 - Comprou veículo ID: 66 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 0 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 32
+[2025-04-10 20:29:50] Cliente2-Loja1 - Comprou veículo ID: 67 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 3 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 25
+[2025-04-10 20:29:53] Cliente4-Loja1 - Comprou veículo ID: 68 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 1 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 26
+[2025-04-10 20:29:54] Cliente8-Loja1 - Comprou veículo ID: 69 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 27
+[2025-04-10 20:29:57] Cliente7-Loja1 - Comprou veículo ID: 70 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 2 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 28
+[2025-04-10 20:29:58] Cliente10-Loja3 - Comprou veículo ID: 71 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 0 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 33
+[2025-04-10 20:30:00] Cliente9-Loja1 - Comprou veículo ID: 72 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 3 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 29
+[2025-04-10 20:30:00] Cliente10-Loja1 - Comprou veículo ID: 73 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 30
+[2025-04-10 20:30:02] Cliente11-Loja1 - Comprou veículo ID: 74 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 3 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 31
+[2025-04-10 20:30:04] Cliente14-Loja3 - Comprou veículo ID: 75 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 1 | Funcionário: 1 | Loja3 | Posição na esteira da loja: 34
+[2025-04-10 20:30:05] Cliente12-Loja1 - Comprou veículo ID: 76 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 0 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 32
+[2025-04-10 20:30:08] Cliente16-Loja3 - Comprou veículo ID: 77 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 1 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 35
+[2025-04-10 20:30:10] Cliente13-Loja1 - Comprou veículo ID: 78 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 2 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 33
+[2025-04-10 20:30:11] Cliente8-Loja2 - Comprou veículo ID: 79 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 3 | Funcionário: 1 | Loja2 | Posição na esteira da loja: 8
+[2025-04-10 20:30:12] Cliente15-Loja1 - Comprou veículo ID: 80 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 1 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 34
+[2025-04-10 20:30:12] Cliente14-Loja1 - Comprou veículo ID: 81 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 35
+[2025-04-10 20:30:15] Cliente16-Loja1 - Comprou veículo ID: 82 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 0 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 36
+[2025-04-10 20:30:20] Cliente17-Loja1 - Comprou veículo ID: 83 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 2 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 37
+[2025-04-10 20:30:21] Cliente9-Loja2 - Comprou veículo ID: 84 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 0 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 9
+[2025-04-10 20:30:21] Cliente18-Loja1 - Comprou veículo ID: 85 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 38
+[2025-04-10 20:30:22] Cliente19-Loja1 - Comprou veículo ID: 86 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 1 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 39
+[2025-04-10 20:30:23] Cliente15-Loja3 - Comprou veículo ID: 87 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 36
+[2025-04-10 20:30:25] Cliente10-Loja2 - Comprou veículo ID: 88 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 1 | Loja2 | Posição na esteira da loja: 10
+[2025-04-10 20:30:47] Cliente17-Loja3 - Comprou veículo ID: 99 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 37
+[2025-04-10 20:30:49] Cliente11-Loja2 - Comprou veículo ID: 100 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 1 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 11
+[2025-04-10 20:30:50] Cliente12-Loja2 - Comprou veículo ID: 101 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 0 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 12
+[2025-04-10 20:30:55] Cliente18-Loja3 - Comprou veículo ID: 103 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 0 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 38
+[2025-04-10 20:30:56] Cliente19-Loja3 - Comprou veículo ID: 105 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 39
+[2025-04-10 20:31:16] Cliente13-Loja2 - Comprou veículo ID: 114 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 2 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 13
+[2025-04-10 20:32:01] Cliente14-Loja2 - Comprou veículo ID: 133 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 2 | Loja2 | Posição na esteira da loja: 14
+[2025-04-10 20:32:09] Cliente15-Loja2 - Comprou veículo ID: 137 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 2 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 15
+[2025-04-10 20:32:18] Cliente16-Loja2 - Comprou veículo ID: 140 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 3 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 16
+[2025-04-10 20:32:26] Cliente17-Loja2 - Comprou veículo ID: 143 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 3 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 17
+[2025-04-10 20:32:41] Cliente18-Loja2 - Comprou veículo ID: 149 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 0 | Funcionário: 4 | Loja2 | Posição na esteira da loja: 18
+[2025-04-10 20:32:56] Cliente19-Loja2 - Comprou veículo ID: 155 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 2 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 19
+[2025-04-10 20:33:04] Cliente0-Loja2 - Comprou veículo ID: 157 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 0 | Funcionário: 4 | Loja2 | Posição na esteira da loja: 20
+[2025-04-10 20:33:18] Cliente1-Loja2 - Comprou veículo ID: 163 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 2 | Loja2 | Posição na esteira da loja: 21
+[2025-04-10 20:33:48] Cliente3-Loja2 - Comprou veículo ID: 176 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 2 | Funcionário: 2 | Loja2 | Posição na esteira da loja: 22
+[2025-04-10 20:33:49] Cliente2-Loja2 - Comprou veículo ID: 177 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 2 | Loja2 | Posição na esteira da loja: 23
+[2025-04-10 20:33:59] Cliente4-Loja2 - Comprou veículo ID: 181 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 3 | Funcionário: 2 | Loja2 | Posição na esteira da loja: 24
+[2025-04-10 20:34:27] Cliente5-Loja2 - Comprou veículo ID: 193 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 25
+[2025-04-10 20:34:57] Cliente6-Loja2 - Comprou veículo ID: 207 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 2 | Funcionário: 1 | Loja2 | Posição na esteira da loja: 26
+[2025-04-10 20:35:23] Cliente7-Loja2 - Comprou veículo ID: 219 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 27
+[2025-04-10 20:36:25] Cliente8-Loja2 - Comprou veículo ID: 247 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 0 | Funcionário: 2 | Loja2 | Posição na esteira da loja: 28
+[2025-04-10 20:36:32] Cliente9-Loja2 - Comprou veículo ID: 251 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 0 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 29
+[2025-04-10 20:36:39] Cliente10-Loja2 - Comprou veículo ID: 253 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 0 | Funcionário: 1 | Loja2 | Posição na esteira da loja: 30
+[2025-04-10 20:36:44] Cliente11-Loja2 - Comprou veículo ID: 256 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 31
+[2025-04-10 20:36:46] Cliente12-Loja2 - Comprou veículo ID: 257 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 2 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 32
+[2025-04-10 20:36:51] Cliente13-Loja2 - Comprou veículo ID: 261 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 2 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 33
+[2025-04-10 20:37:01] Cliente14-Loja2 - Comprou veículo ID: 266 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 0 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 34
+[2025-04-10 20:37:01] Cliente15-Loja2 - Comprou veículo ID: 265 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 2 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 35
+[2025-04-10 20:37:11] Cliente16-Loja2 - Comprou veículo ID: 269 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 3 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 36
+[2025-04-10 20:37:19] Cliente17-Loja2 - Comprou veículo ID: 273 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 0 | Funcionário: 0 | Loja2 | Posição na esteira da loja: 37
+[2025-04-10 20:37:20] Cliente18-Loja2 - Comprou veículo ID: 274 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 1 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 38
+[2025-04-10 20:37:25] Cliente19-Loja2 - Comprou veículo ID: 275 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 3 | Funcionário: 2 | Loja2 | Posição na esteira da loja: 39
+[2025-04-10 21:12:40] Cliente1-Loja1 - Comprou veículo ID: 3 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 0 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 0
+[2025-04-10 21:12:40] Cliente0-Loja1 - Comprou veículo ID: 4 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 1 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 1
+[2025-04-10 21:12:40] Cliente2-Loja1 - Comprou veículo ID: 2 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 2 | Funcionário: 0 | Loja1 | Posição na esteira da loja: 2
+[2025-04-10 21:12:40] Cliente4-Loja1 - Comprou veículo ID: 1 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 3 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 3
+[2025-04-10 21:12:40] Cliente3-Loja1 - Comprou veículo ID: 6 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 0 | Funcionário: 0 | Loja1 | Posição na esteira da loja: 4
+[2025-04-10 21:12:40] Cliente5-Loja1 - Comprou veículo ID: 7 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 5
+[2025-04-10 21:12:40] Cliente6-Loja1 - Comprou veículo ID: 5 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 2 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 6
+[2025-04-10 21:12:40] Cliente7-Loja1 - Comprou veículo ID: 9 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 0 | Loja1 | Posição na esteira da loja: 7
+[2025-04-10 21:12:41] Cliente8-Loja1 - Comprou veículo ID: 11 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 1 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 8
+[2025-04-10 21:12:41] Cliente9-Loja1 - Comprou veículo ID: 8 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 2 | Funcionário: 0 | Loja1 | Posição na esteira da loja: 9
+[2025-04-10 21:12:41] Cliente10-Loja1 - Comprou veículo ID: 10 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 10
+[2025-04-10 21:12:44] Cliente11-Loja1 - Comprou veículo ID: 12 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 2 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 11
+[2025-04-10 21:12:44] Cliente13-Loja1 - Comprou veículo ID: 13 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 0 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 12
+[2025-04-10 21:12:46] Cliente0-Loja2 - Comprou veículo ID: 14 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 1 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 0
+[2025-04-10 21:12:46] Cliente12-Loja1 - Comprou veículo ID: 15 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 2 | Funcionário: 0 | Loja1 | Posição na esteira da loja: 13
+[2025-04-10 21:12:48] Cliente14-Loja1 - Comprou veículo ID: 16 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 0 | Funcionário: 0 | Loja1 | Posição na esteira da loja: 14
+[2025-04-10 21:12:48] Cliente15-Loja1 - Comprou veículo ID: 17 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 3 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 15
+[2025-04-10 21:12:50] Cliente1-Loja2 - Comprou veículo ID: 18 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 3 | Funcionário: 0 | Loja2 | Posição na esteira da loja: 1
+[2025-04-10 21:12:52] Cliente16-Loja1 - Comprou veículo ID: 19 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 16
+[2025-04-10 21:12:54] Cliente17-Loja1 - Comprou veículo ID: 20 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 0 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 17
+[2025-04-10 21:12:54] Cliente18-Loja1 - Comprou veículo ID: 21 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 2 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 18
+[2025-04-10 21:12:57] Cliente2-Loja2 - Comprou veículo ID: 22 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 1 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 2
+[2025-04-10 21:12:58] Cliente19-Loja1 - Comprou veículo ID: 23 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 2 | Funcionário: 0 | Loja1 | Posição na esteira da loja: 19
+[2025-04-10 21:13:00] Cliente1-Loja1 - Comprou veículo ID: 24 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 3 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 20
+[2025-04-10 21:13:01] Cliente5-Loja1 - Comprou veículo ID: 25 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 0 | Funcionário: 0 | Loja1 | Posição na esteira da loja: 21
+[2025-04-10 21:13:02] Cliente2-Loja1 - Comprou veículo ID: 26 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 3 | Funcionário: 4 | Loja1 | Posição na esteira da loja: 22
+[2025-04-10 21:13:04] Cliente6-Loja1 - Comprou veículo ID: 27 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 1 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 23
+[2025-04-10 21:13:06] Cliente7-Loja1 - Comprou veículo ID: 28 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 0 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 24
+[2025-04-10 21:13:07] Cliente10-Loja1 - Comprou veículo ID: 29 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 2 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 25
+[2025-04-10 21:13:08] Cliente4-Loja1 - Comprou veículo ID: 31 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 0 | Funcionário: 0 | Loja1 | Posição na esteira da loja: 26
+[2025-04-10 21:13:08] Cliente9-Loja1 - Comprou veículo ID: 30 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 2 | Funcionário: 0 | Loja1 | Posição na esteira da loja: 27
+[2025-04-10 21:13:09] Cliente0-Loja1 - Comprou veículo ID: 32 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 3 | Funcionário: 4 | Loja1 | Posição na esteira da loja: 28
+[2025-04-10 21:13:10] Cliente3-Loja1 - Comprou veículo ID: 33 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 1 | Funcionário: 3 | Loja1 | Posição na esteira da loja: 29
+[2025-04-10 21:13:13] Cliente8-Loja1 - Comprou veículo ID: 34 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 0 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 30
+[2025-04-10 21:13:13] Cliente11-Loja1 - Comprou veículo ID: 35 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 3 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 31
+[2025-04-10 21:13:15] Cliente13-Loja1 - Comprou veículo ID: 36 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 0 | Funcionário: 0 | Loja1 | Posição na esteira da loja: 32
+[2025-04-10 21:13:15] Cliente12-Loja1 - Comprou veículo ID: 37 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 2 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 33
+[2025-04-10 21:13:16] Cliente15-Loja1 - Comprou veículo ID: 38 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 1 | Funcionário: 1 | Loja1 | Posição na esteira da loja: 34
+[2025-04-10 21:13:19] Cliente0-Loja3 - Comprou veículo ID: 39 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 1 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 0
+[2025-04-10 21:13:20] Cliente14-Loja1 - Comprou veículo ID: 40 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 35
+[2025-04-10 21:13:21] Cliente1-Loja3 - Comprou veículo ID: 41 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 0 | Funcionário: 2 | Loja3 | Posição na esteira da loja: 1
+[2025-04-10 21:13:21] Cliente16-Loja1 - Comprou veículo ID: 42 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 0 | Funcionário: 0 | Loja1 | Posição na esteira da loja: 36
+[2025-04-10 21:13:22] Cliente18-Loja1 - Comprou veículo ID: 43 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 2 | Funcionário: 4 | Loja1 | Posição na esteira da loja: 37
+[2025-04-10 21:13:22] Cliente3-Loja2 - Comprou veículo ID: 44 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 2 | Funcionário: 2 | Loja2 | Posição na esteira da loja: 3
+[2025-04-10 21:13:22] Cliente17-Loja1 - Comprou veículo ID: 45 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 4 | Loja1 | Posição na esteira da loja: 38
+[2025-04-10 21:13:24] Cliente2-Loja3 - Comprou veículo ID: 46 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 1 | Funcionário: 1 | Loja3 | Posição na esteira da loja: 2
+[2025-04-10 21:13:27] Cliente19-Loja1 - Comprou veículo ID: 47 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 3 | Funcionário: 2 | Loja1 | Posição na esteira da loja: 39
+[2025-04-10 21:13:27] Cliente3-Loja3 - Comprou veículo ID: 48 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 1 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 3
+[2025-04-10 21:13:28] Cliente4-Loja3 - Comprou veículo ID: 49 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 2 | Funcionário: 2 | Loja3 | Posição na esteira da loja: 4
+[2025-04-10 21:13:33] Cliente5-Loja3 - Comprou veículo ID: 53 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 3 | Funcionário: 2 | Loja3 | Posição na esteira da loja: 5
+[2025-04-10 21:13:35] Cliente6-Loja3 - Comprou veículo ID: 55 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 6
+[2025-04-10 21:13:36] Cliente4-Loja2 - Comprou veículo ID: 57 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 0 | Funcionário: 0 | Loja2 | Posição na esteira da loja: 4
+[2025-04-10 21:13:36] Cliente5-Loja2 - Comprou veículo ID: 56 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 2 | Funcionário: 4 | Loja2 | Posição na esteira da loja: 5
+[2025-04-10 21:13:39] Cliente7-Loja3 - Comprou veículo ID: 59 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 2 | Funcionário: 2 | Loja3 | Posição na esteira da loja: 7
+[2025-04-10 21:13:43] Cliente6-Loja2 - Comprou veículo ID: 61 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 1 | Loja2 | Posição na esteira da loja: 6
+[2025-04-10 21:13:45] Cliente8-Loja3 - Comprou veículo ID: 62 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 2 | Funcionário: 2 | Loja3 | Posição na esteira da loja: 8
+[2025-04-10 21:13:46] Cliente9-Loja3 - Comprou veículo ID: 63 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 2 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 9
+[2025-04-10 21:13:46] Cliente10-Loja3 - Comprou veículo ID: 64 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 2 | Loja3 | Posição na esteira da loja: 10
+[2025-04-10 21:13:48] Cliente11-Loja3 - Comprou veículo ID: 66 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 1 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 11
+[2025-04-10 21:13:52] Cliente7-Loja2 - Comprou veículo ID: 67 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 1 | Loja2 | Posição na esteira da loja: 7
+[2025-04-10 21:13:53] Cliente12-Loja3 - Comprou veículo ID: 68 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 2 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 12
+[2025-04-10 21:13:55] Cliente13-Loja3 - Comprou veículo ID: 70 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 0 | Funcionário: 2 | Loja3 | Posição na esteira da loja: 13
+[2025-04-10 21:13:58] Cliente14-Loja3 - Comprou veículo ID: 72 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 1 | Funcionário: 1 | Loja3 | Posição na esteira da loja: 14
+[2025-04-10 21:14:01] Cliente8-Loja2 - Comprou veículo ID: 74 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 2 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 8
+[2025-04-10 21:14:04] Cliente15-Loja3 - Comprou veículo ID: 76 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 15
+[2025-04-10 21:14:06] Cliente16-Loja3 - Comprou veículo ID: 77 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 1 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 16
+[2025-04-10 21:14:08] Cliente17-Loja3 - Comprou veículo ID: 78 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 2 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 17
+[2025-04-10 21:14:09] Cliente18-Loja3 - Comprou veículo ID: 79 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 0 | Loja3 | Posição na esteira da loja: 18
+[2025-04-10 21:14:12] Cliente9-Loja2 - Comprou veículo ID: 81 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 4 | Loja2 | Posição na esteira da loja: 9
+[2025-04-10 21:14:15] Cliente19-Loja3 - Comprou veículo ID: 82 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 1 | Funcionário: 0 | Loja3 | Posição na esteira da loja: 19
+[2025-04-10 21:14:18] Cliente0-Loja3 - Comprou veículo ID: 84 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 3 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 20
+[2025-04-10 21:14:23] Cliente1-Loja3 - Comprou veículo ID: 86 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 1 | Funcionário: 0 | Loja3 | Posição na esteira da loja: 21
+[2025-04-10 21:14:24] Cliente2-Loja3 - Comprou veículo ID: 88 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 22
+[2025-04-10 21:14:29] Cliente10-Loja2 - Comprou veículo ID: 89 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 2 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 10
+[2025-04-10 21:14:31] Cliente3-Loja3 - Comprou veículo ID: 90 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 1 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 23
+[2025-04-10 21:14:31] Cliente11-Loja2 - Comprou veículo ID: 91 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 3 | Funcionário: 4 | Loja2 | Posição na esteira da loja: 11
+[2025-04-10 21:14:38] Cliente12-Loja2 - Comprou veículo ID: 93 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 0 | Funcionário: 2 | Loja2 | Posição na esteira da loja: 12
+[2025-04-10 21:14:38] Cliente4-Loja3 - Comprou veículo ID: 94 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 24
+[2025-04-10 21:14:42] Cliente5-Loja3 - Comprou veículo ID: 96 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 1 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 25
+[2025-04-10 21:14:44] Cliente13-Loja2 - Comprou veículo ID: 98 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 3 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 13
+[2025-04-10 21:14:44] Cliente6-Loja3 - Comprou veículo ID: 99 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 0 | Funcionário: 2 | Loja3 | Posição na esteira da loja: 26
+[2025-04-10 21:14:49] Cliente7-Loja3 - Comprou veículo ID: 100 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 2 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 27
+[2025-04-10 21:14:51] Cliente8-Loja3 - Comprou veículo ID: 102 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 3 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 28
+[2025-04-10 21:14:57] Cliente10-Loja3 - Comprou veículo ID: 104 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 0 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 29
+[2025-04-10 21:14:59] Cliente9-Loja3 - Comprou veículo ID: 105 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 1 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 30
+[2025-04-10 21:15:03] Cliente11-Loja3 - Comprou veículo ID: 106 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 2 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 31
+[2025-04-10 21:15:04] Cliente14-Loja2 - Comprou veículo ID: 107 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 3 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 14
+[2025-04-10 21:15:06] Cliente12-Loja3 - Comprou veículo ID: 108 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 1 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 32
+[2025-04-10 21:15:11] Cliente13-Loja3 - Comprou veículo ID: 109 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 0 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 33
+[2025-04-10 21:15:12] Cliente15-Loja2 - Comprou veículo ID: 110 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 2 | Funcionário: 4 | Loja2 | Posição na esteira da loja: 15
+[2025-04-10 21:15:16] Cliente17-Loja2 - Comprou veículo ID: 113 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 0 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 16
+[2025-04-10 21:15:19] Cliente16-Loja2 - Comprou veículo ID: 114 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 2 | Funcionário: 4 | Loja2 | Posição na esteira da loja: 17
+[2025-04-10 21:15:23] Cliente18-Loja2 - Comprou veículo ID: 115 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 1 | Funcionário: 4 | Loja2 | Posição na esteira da loja: 18
+[2025-04-10 21:15:28] Cliente19-Loja2 - Comprou veículo ID: 117 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 19
+[2025-04-10 21:15:29] Cliente14-Loja3 - Comprou veículo ID: 118 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 1 | Funcionário: 4 | Loja3 | Posição na esteira da loja: 34
+[2025-04-10 21:15:31] Cliente15-Loja3 - Comprou veículo ID: 119 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 0 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 35
+[2025-04-10 21:15:37] Cliente16-Loja3 - Comprou veículo ID: 121 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 0 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 36
+[2025-04-10 21:15:42] Cliente0-Loja2 - Comprou veículo ID: 123 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 3 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 20
+[2025-04-10 21:15:49] Cliente17-Loja3 - Comprou veículo ID: 125 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 3 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 37
+[2025-04-10 21:15:50] Cliente18-Loja3 - Comprou veículo ID: 126 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 2 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 38
+[2025-04-10 21:15:50] Cliente1-Loja2 - Comprou veículo ID: 127 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 0 | Funcionário: 2 | Loja2 | Posição na esteira da loja: 21
+[2025-04-10 21:16:00] Cliente2-Loja2 - Comprou veículo ID: 129 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 0 | Funcionário: 2 | Loja2 | Posição na esteira da loja: 22
+[2025-04-10 21:16:01] Cliente19-Loja3 - Comprou veículo ID: 131 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 1 | Funcionário: 3 | Loja3 | Posição na esteira da loja: 39
+[2025-04-10 21:16:03] Cliente3-Loja2 - Comprou veículo ID: 132 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 2 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 23
+[2025-04-10 21:16:12] Cliente4-Loja2 - Comprou veículo ID: 135 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 0 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 24
+[2025-04-10 21:16:15] Cliente5-Loja2 - Comprou veículo ID: 137 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 0 | Funcionário: 0 | Loja2 | Posição na esteira da loja: 25
+[2025-04-10 21:16:26] Cliente6-Loja2 - Comprou veículo ID: 141 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 0 | Funcionário: 2 | Loja2 | Posição na esteira da loja: 26
+[2025-04-10 21:16:33] Cliente7-Loja2 - Comprou veículo ID: 144 | Tipo: Sedan Tradicional | Cor: Azul | Estação: 1 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 27
+[2025-04-10 21:16:36] Cliente8-Loja2 - Comprou veículo ID: 146 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 0 | Funcionário: 1 | Loja2 | Posição na esteira da loja: 28
+[2025-04-10 21:16:40] Cliente9-Loja2 - Comprou veículo ID: 147 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 0 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 29
+[2025-04-10 21:16:55] Cliente10-Loja2 - Comprou veículo ID: 155 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 1 | Funcionário: 2 | Loja2 | Posição na esteira da loja: 30
+[2025-04-10 21:17:00] Cliente11-Loja2 - Comprou veículo ID: 158 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 2 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 31
+[2025-04-10 21:17:02] Cliente12-Loja2 - Comprou veículo ID: 159 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 0 | Funcionário: 1 | Loja2 | Posição na esteira da loja: 32
+[2025-04-10 21:17:07] Cliente13-Loja2 - Comprou veículo ID: 161 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 1 | Funcionário: 2 | Loja2 | Posição na esteira da loja: 33
+[2025-04-10 21:17:16] Cliente14-Loja2 - Comprou veículo ID: 166 | Tipo: Sedan Tradicional | Cor: Vermelho | Estação: 3 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 34
+[2025-04-10 21:17:25] Cliente15-Loja2 - Comprou veículo ID: 171 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 2 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 35
+[2025-04-10 21:17:35] Cliente17-Loja2 - Comprou veículo ID: 176 | Tipo: Sedan Tradicional | Cor: Verde | Estação: 0 | Funcionário: 1 | Loja2 | Posição na esteira da loja: 36
+[2025-04-10 21:17:39] Cliente16-Loja2 - Comprou veículo ID: 179 | Tipo: Utilitário Esportivo | Cor: Verde | Estação: 1 | Funcionário: 3 | Loja2 | Posição na esteira da loja: 37
+[2025-04-10 21:17:46] Cliente18-Loja2 - Comprou veículo ID: 181 | Tipo: Utilitário Esportivo | Cor: Vermelho | Estação: 2 | Funcionário: 2 | Loja2 | Posição na esteira da loja: 38
+[2025-04-10 21:17:49] Cliente19-Loja2 - Comprou veículo ID: 183 | Tipo: Utilitário Esportivo | Cor: Azul | Estação: 1 | Funcionário: 2 | Loja2 | Posição na esteira da loja: 39
